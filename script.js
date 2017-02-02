@@ -20,7 +20,6 @@ function deleteClass(theClass){
 
 function newStyle(){
   var newStyleElement=document.createElement('style');
-  newStyleElement.appendChild(document.createTextNode(""));
   document.head.appendChild(newStyleElement);
   var newStyleSheet=newStyleElement.sheet;
   newStyleSheet.insertRule('#description{font-size:1.1em;margin-left:25%;}',newStyleSheet.cssRules.length);
