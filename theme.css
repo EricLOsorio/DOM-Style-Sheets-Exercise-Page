@@ -1,0 +1,16 @@
+body{
+  background-color:white;
+}
+
+section{
+  margin-left:2em;
+}
+
+div.blue{
+  background-color:blue;
+}
+
+div.red{
+  background-color:red;
+}
+
