@@ -1,2 +1,2 @@
 # DOM-Style-Sheets-Exercise-Page
-Manipulating Style Sheets in the DOM
+UI Elements web page showing manipulation of Style Sheets in the DOM
